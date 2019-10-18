@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinDemo</string>
+    <string name="submit">Submit</string>
+    <string name="please_enter_user_name">Please Enter User Name</string>
+    <string name="if_you_do_not_have_account_please_signup">If you do not have account please signup</string>
+    <string name="please_enter_email_id">Please Enter Email id</string>
+    <string name="please_enter_confirm_password">Please Enter Confirm Password</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="sign_up">Sign up</string>
+</resources>
